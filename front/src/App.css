@@ -1,0 +1,29 @@
+.main-div {
+  display: flex;
+  justify-content: center; 
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.ai-form {
+  align-items: center;
+  width: 500px;
+  display: flex;
+}
+
+.btn-submit {
+  margin-left: 1rem;
+}
+
+.ai-response-box {
+  margin-top: 1rem;
+  width: 500px;
+}
+
+.text-area {
+  min-width: 320px;
+  min-height: 150px;
+}
